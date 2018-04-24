@@ -1,0 +1,8 @@
+﻿  Zajecia3a.cpp
+c:\users\wojtek\desktop\studia sem iv\grafika komputerowa\zajecia3a\zajecia3a\zajecia3a.cpp(467): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+c:\users\wojtek\desktop\studia sem iv\grafika komputerowa\zajecia3a\zajecia3a\zajecia3a.cpp(472): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+c:\users\wojtek\desktop\studia sem iv\grafika komputerowa\zajecia3a\zajecia3a\zajecia3a.cpp(524): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\wojtek\desktop\studia sem iv\grafika komputerowa\zajecia3a\zajecia3a\zajecia3a.cpp(526): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\wojtek\desktop\studia sem iv\grafika komputerowa\zajecia3a\zajecia3a\zajecia3a.cpp(528): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\wojtek\desktop\studia sem iv\grafika komputerowa\zajecia3a\zajecia3a\zajecia3a.cpp(530): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  Zajecia3a.vcxproj -> C:\Users\Wojtek\Desktop\Studia sem IV\Grafika Komputerowa\Zajecia3a\Debug\Zajecia3a.exe

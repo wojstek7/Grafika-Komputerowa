@@ -1,0 +1,2 @@
+﻿  VectorMath.cpp
+c:\users\wojtek\desktop\studia sem iv\grafika komputerowa\zajecia2b\zajecia2b\vectormath.cpp(125): fatal error C1010: Nieoczekiwany koniec pliku podczas wyszukiwania prekompilowanego nagłówka. Czy zapomniano dodać "#include "stdafx.h"" do twojego źródła?
