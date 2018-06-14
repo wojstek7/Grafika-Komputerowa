@@ -1,0 +1,7 @@
+﻿  Źródło.cpp
+c:\users\wojciech\desktop\grafika\zajecia09\zajecie9\zajecie9\źródło.cpp(564): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\wojciech\desktop\grafika\zajecia09\zajecie9\zajecie9\źródło.cpp(566): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\wojciech\desktop\grafika\zajecia09\zajecie9\zajecie9\źródło.cpp(576): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\wojciech\desktop\grafika\zajecia09\zajecie9\zajecie9\źródło.cpp(581): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  Zajecie9.vcxproj -> C:\Users\Wojciech\Desktop\Grafika\Zajecia09\Zajecie9\Debug\Zajecie9.exe
+  Zajecie9.vcxproj -> C:\Users\Wojciech\Desktop\Grafika\Zajecia09\Zajecie9\Debug\Zajecie9.pdb (Partial PDB)
